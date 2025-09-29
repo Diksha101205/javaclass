@@ -1,4 +1,4 @@
-package class3;
+
 import java.util.Scanner;
 
 public class mainPart {
@@ -27,3 +27,4 @@ public class mainPart {
         System.out.println(count);
     }
 }
+
