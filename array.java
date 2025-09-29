@@ -1,4 +1,3 @@
-package class4;
 import java.util.Scanner;
 class ArrayParameter{
     int[] num;   
@@ -29,4 +28,5 @@ public class array{
         object.UserInput();
     }
 }
+
 
