@@ -1,4 +1,3 @@
-package class5;
 
 public class encapsulation {
     private int contact;
@@ -24,3 +23,4 @@ public class encapsulation {
         System.out.println("Contact:" + s.getContact());
     }
 }
+
