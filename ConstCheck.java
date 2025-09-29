@@ -1,4 +1,3 @@
-package class3;
 
 class const1
 {
@@ -21,4 +20,5 @@ public class ConstCheck {
 
     }
 }
+
 
