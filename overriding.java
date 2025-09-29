@@ -1,4 +1,3 @@
-package class2;
 
 class Animal {
     void sound() {
@@ -31,5 +30,6 @@ public class overriding {
         a.sound();   // Output: Cat meows
     }
 }
+
 
 
