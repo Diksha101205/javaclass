@@ -1,4 +1,4 @@
-package class8;
+
 import java.util.Scanner;
 public class excptn {
     public static void main(String[] args){
@@ -14,4 +14,5 @@ public class excptn {
         }
     }
 }
+
 
