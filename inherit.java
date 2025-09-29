@@ -1,4 +1,3 @@
-package class3;
 
 class ParentClass
 {
@@ -29,3 +28,4 @@ public class inherit {
         child.add(6);
     } 
 }
+
