@@ -1,4 +1,3 @@
-package class2;
 
 class Calculator {
     int add(int a, int b) {
@@ -18,4 +17,5 @@ public class overloading {
         System.out.println("Sum of 3 numbers: " + calc.add(5, 10, 15));
     }
 }
+
 
