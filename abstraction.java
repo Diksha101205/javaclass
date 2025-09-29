@@ -1,4 +1,3 @@
-package class2;
 
 abstract class Animal {
     abstract void sound();
@@ -41,6 +40,7 @@ public class abstraction {
         v.stop();   // Output: Car stops with brake
     }
 }
+
 
 
 
